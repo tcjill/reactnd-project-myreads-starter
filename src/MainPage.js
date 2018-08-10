@@ -22,8 +22,10 @@ class MainPage extends Component {
                                     .map(book => (
                                         <li key={book.id}>
                                           <Book
-                                            book={book} />
-                                         </li>
+                                            book={book} 
+                                            moveShelf={this.props.moveShelf}
+                                        />
+                                    </li>
                                 ))
                             }
                             </ol>
@@ -39,7 +41,8 @@ class MainPage extends Component {
                                     .map(book => (
                                         <li key={book.id}>
                                           <Book
-                                            book={book} />
+                                            book={book}
+                                            moveShelf={this.props.moveShelf}/>
                                          </li>
                                 ))
                             }
@@ -57,7 +60,8 @@ class MainPage extends Component {
                                     .map(book => (
                                         <li key={book.id}>
                                           <Book 
-                                            book={book}/>
+                                            book={book}
+                                            moveShelf={this.props.moveShelf}/>
                                          </li>
                                 ))
                             }
