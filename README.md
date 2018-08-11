@@ -1,5 +1,6 @@
 # MyReads Project Jill
 This is my Udacity project MyReads I was given a starter template. I used many sources to understand this project.
+
 *https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
 * Maeva Study Jam Udacity
 *https://www.youtube.com/watch?v=A71aqufiNtQ  Travesy Media React Course
@@ -15,9 +16,6 @@ To get started this web app right away:
 * install `npm install`
 * start  `npm start`
 These two commands will get all the files need to get this project and start a server on  your local machine.
-
-
-## What You're Getting
 
 
 ## Backend Server
