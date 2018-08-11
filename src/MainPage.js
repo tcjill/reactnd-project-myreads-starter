@@ -45,7 +45,7 @@ class MainPage extends Component {
                                           <Book
                                             book={book}
                                             moveShelf={this.props.moveShelf}
-                                            currentShelf="wantToRead"
+                                            currentShelf="currentlyReading"
                                             />
                                          </li>
                                 ))
@@ -66,7 +66,8 @@ class MainPage extends Component {
                                           <Book 
                                             book={book}
                                             moveShelf={this.props.moveShelf}
-                                            currentShelf="read"/>
+                                            currentShelf="currentlyReading"
+                                          /> 
                                          </li>
                                 ))
                             }
