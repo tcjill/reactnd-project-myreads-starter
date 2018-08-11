@@ -3,7 +3,9 @@ This is my Udacity project MyReads I was given a starter template. I used many s
 
 *https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
 * Maeva Study Jam Udacity
+
 *https://www.youtube.com/watch?v=A71aqufiNtQ  Travesy Media React Course
+
 *https://www.youtube.com/watch?v=alZur1g2Cnw   Tyler McGinnis React Bootcamp
 
 The project can be started up to search for books like a bookshelf and store books in different categories such as Read, Currently Reading and Want to Read. There's a search bar page as well.
